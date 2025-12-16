@@ -72,3 +72,4 @@ Follow these steps to set up the project locally.
 
 5. **Open the app:**
    Visit [http://localhost:3000](http://localhost:3000) in your browser.
+# GraphExplorer-Hub
